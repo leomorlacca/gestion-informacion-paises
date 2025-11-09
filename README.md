@@ -58,3 +58,16 @@ Argentina,45376763,2780400,América
 Japón,125800000,377975,Asia
 Brasil,213993437,8515767,América
 Alemania,83149300,357022,Europa
+
+## Instrucciones de Ejecución
+
+Clonar o descargar el repositorio:
+git clone https://github.com/leomorlacca/gestion-informacion-paises.git
+cd gestion-informacion-paises
+
+
+Ejecutar el programa:
+python3 gestion_paises.py
+
+Seguir las opciones del menú principal en la consola.
+El archivo dataset.csv se genera automáticamente si no existe.
